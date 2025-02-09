@@ -6,6 +6,10 @@ body {
     padding: 0;
 }
 
+.swal-footer{
+    text-align: center !important;
+}
+
 /* Contenedor principal */
 .container {
     max-width: 1200px; /* Ancho máximo del contenedor */
